@@ -1,14 +1,14 @@
 # Projeto Integrado 2022 - Acidentes Aereos no Brasil
+
 Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 aplicando técnicas de ciência de dados.
 
 
 ## Integrantes
  
-
-* Leonardo Dias Lissone Santomero
-* Moises Silva de Morais
-* Stenio Dias Rapchan
-* Vinicius Silva de Almeida
+* Leonardo Dias Lissone Santomero [GitHub](https://github.com/Lissone)
+* Moises Silva de Morais [GitHub](https://github.com/MikaMorais)
+* Stenio Dias Rapchan [GitHub](https://github.com/steniodr)
+* Vinicius Silva de Almeida [GitHub](https://github.com/almeidavini)
 
 
 ## Professor
@@ -23,6 +23,7 @@ Hi, I'm Edson Melo de Souza
 
 Disponível em: https://github.com/EdsonMSouza
 ```
+
 
 ## Conteúdo:
 
